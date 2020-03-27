@@ -11,5 +11,14 @@ Actually this is a template repository for such simple lambda function to deploy
 
 Next time I'll clone this.
 
+## What to provide
+* An AWS Lambda function in golang.
+  - uses AWS SDK v2
+  - cobra/viper
+* Terraform
+  - Deploy a function.
+  - Make an IAM role.
+  - Make a CloudWatch schedule event.
+
 ## How to use
 TBD
