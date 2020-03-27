@@ -1,0 +1,8 @@
+.*.swp
+.terraform
+terraform-backend.tf
+*.tfstate
+*.tfstate.backup
+clean-log-stream
+clean-log-stream.zip
+*.auto.tfvars
